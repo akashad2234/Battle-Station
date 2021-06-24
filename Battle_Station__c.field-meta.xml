@@ -4,8 +4,7 @@
     <externalId>false</externalId>
     <label>Battle Station</label>
     <referenceTo>Battle_Station__c</referenceTo>
-    <relationshipLabel>Supplies</relationshipLabel>
-    <relationshipName>Supplies</relationshipName>
+    <relationshipName>Resources</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackTrending>false</trackTrending>
